@@ -18,5 +18,3 @@ the app.py file <br>
 Provide a high-level usage of beautifulsoup and flask app to create a url and webpage.<br> 
 
 the usage of beautifulsoup and pymongo and manual edit was used to create the webpage.  
-[Figure 3](https://github.com/davidhyongae2/surfup/blob/main/index.html). 
-
