@@ -12,7 +12,7 @@ Working version of the python code to run url and image of mission to mars <br> 
 
 an updated scraping.py <br>
 the app.py file <br>
-[Figure 2](https://github.com/davidhyongae2/missiontomars/blob/main/index.html) <br>
+[Figure 2](https://github.com/davidhyongae2/missiontomars/blob/main/index.html). <br>
 
 ## Summary
 Provide a high-level usage of beautifulsoup and flask app to create a url and webpage.<br> 
