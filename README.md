@@ -17,4 +17,4 @@ the app.py file <br>
 ## Summary
 Provide a high-level usage of beautifulsoup and flask app to create a url and webpage.<br> 
 
-the usage of beautifulsoup and pymongo and manual edit was used to create the webpage.  
+the usage of beautifulsoup and pymongo and manual edit that was used to create the webpage.  
