@@ -15,6 +15,6 @@ the app.py file <br>
 [Figure 2](https://github.com/davidhyongae2/missiontomars/blob/main/index.html). <br>
 
 ## Summary
-Provide a high-level usage of beautiful soup and flask app to create a URL and webpage.<br> 
+Provide a high-level usage of beautiful soup and Flask app to create a URL and webpage.<br> 
 
 the usage of beautiful soup and pymongo and edited to create the webpage.  
