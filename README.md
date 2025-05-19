@@ -8,6 +8,7 @@ Utilize Beautiful Soup and Flask to create a URL and webpage.
 - Program language: python programming and modules and Pymongo.
 
 ## Data:
+Images and PNG.
 
 ## Process:
 1. Exploratory Data Analysis (EDA)
