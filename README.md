@@ -16,9 +16,8 @@ PNG,HTML
    
 ## Results:
 URL and image analysis of the mission to Mars <br> 
-![Figure 1](https://github.com/davidhyongae2/missiontomars/blob/main/Figure1.png).
+![Figure 1](https://github.com/davidhyongae2/missiontomars/blob/main/Figure1.png)
 scraping.py and app.py
 
-![Figure 2](https://github.com/davidhyongae2/missiontomars/blob/main/index.html). <br>
 
   
