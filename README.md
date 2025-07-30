@@ -1,25 +1,24 @@
 ## Project: 
-1. Used Python and Pandas to filter data and scrape high-resolution images of Mars's hemispheres and their titles with BeautifulSoup and Splinter. <br>
+1. Python and Pandas  scrape analysis of high-resolution Mars's hemispheres. <br>
    
 ## Overview: 
-Utilize Beautiful Soup and Flask to create a URL and webpage.	  
+Beautiful Soup, Flask, splinter for web analysis.	  
 	
-## Tool used: 
-- Program language: python programming and modules and Pymongo.
+## Tool:
+Python, Modules, and Pymongo.
 
 ## Data:
-Images and PNG.
+PNG,Html
 
 ## Process:
 1. Exploratory Data Analysis (EDA)
 2. Insights & Visualizations
    
 ## Results:
-
-The working version of the Python code to run the URL and image of the mission to Mars <br> 
+URL and image analysis of the mission to Mars <br> 
 ![Figure 1](https://github.com/davidhyongae2/missiontomars/blob/main/Figure1.png).
+scraping.py and app.py
 
-update scraping.py and app.py file
 [Figure 2](https://github.com/davidhyongae2/missiontomars/blob/main/index.html). <br>
 
   
